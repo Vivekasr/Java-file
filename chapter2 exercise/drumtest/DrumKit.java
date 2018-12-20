@@ -4,10 +4,10 @@ class DrumKit {
   boolean snare = true;
 
   void playsnare() {
-    System.out.println("bang bang ba-bang");
+    System.out.println("bang bang bangadi-bang");
   }
 
   void playTopHat() {
-    System.out.println("ding ding da-ding");
+    System.out.println("ding ding dangidi-ding");
   }
 }
