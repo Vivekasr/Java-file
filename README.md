@@ -1,2 +1,4 @@
 # Java-file
-java learning projects
+java exercise from head first java
+with 
+mentioned projects
